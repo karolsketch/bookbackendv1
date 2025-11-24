@@ -24,7 +24,8 @@ bookbackendv1
 | Build Tool | Maven           |
 ---
 # 3. 專案結構
-'''text
+
+```text
 src/main/java/com/demo
 ├── Bookbackendv1Application.java
 │
@@ -68,8 +69,10 @@ src/main/java/com/demo
     ├── AdminOrder*.java
     ├── HomeBannerResponse.java
     └── HomeRecommendBookResponse.java
-'''
+
+ˋˋˋ
 # 4. application.properties（DB / JPA 設定）
+ˋˋˋ properties
 spring.application.name=bookbackendv1
 
 spring.datasource.url=jdbc:mysql://localhost:3306/ebook
@@ -83,4 +86,4 @@ spring.jpa.properties.hibernate.format_sql=true
 
 spring.jpa.hibernate.naming.physical-strategy=\
 org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
-
+ˋˋˋ
