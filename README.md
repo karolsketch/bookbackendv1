@@ -69,7 +69,6 @@ src/main/java/com/demo
     ├── AdminOrder*.java
     ├── HomeBannerResponse.java
     └── HomeRecommendBookResponse.java
-
 ˋˋˋ
 
 # 4. application.properties（DB / JPA 設定）
