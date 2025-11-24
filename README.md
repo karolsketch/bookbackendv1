@@ -70,4 +70,3 @@ src/main/java/com/demo
     ├── HomeBannerResponse.java
     └── HomeRecommendBookResponse.java
 ```
-
