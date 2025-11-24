@@ -71,7 +71,7 @@ src/main/java/com/demo
     └── HomeRecommendBookResponse.java
 
 ˋˋˋ
----
+
 # 4. application.properties（DB / JPA 設定）
 
 spring.application.name=bookbackendv1
